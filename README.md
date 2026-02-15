@@ -62,7 +62,7 @@ LoveSync AI is a comprehensive **Relationship Intelligence & Connection Platform
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/lovesync-ai.git
+git clone https://github.com/aadarshsenapati/LoveSyncA
 cd lovesync-ai
 ```
 
